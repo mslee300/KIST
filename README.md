@@ -1,9 +1,5 @@
-1. 👇 이거 값만 복사해서 왼쪽 Secrets누른다음 value에 붙여넣기. key에는 SECRET_KEY 라고 입력 👇
+# A template code for BU KIST(Korea Institute of Science and Technology)'s AI project workshop
 
-MCsEZO96kqr3kLb6PAUu-aXsYxS4MPNG2pcgNg6aYKY
-
-2. https://platform.openai.com/account/api-keys 로 접속해서 API key 발급
-
-3. 
-
-4. 맨 위에 Run 버튼 클릭
+<div align ='center'> 
+  <img width="921" alt="image" src="https://user-images.githubusercontent.com/55467050/232953881-77db150a-7667-4570-881e-ac60dacd772f.png"> 
+</div>
